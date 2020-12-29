@@ -10,3 +10,15 @@
 - 👯 I’m looking to collaborate on [didi/booster](https://github.com/didi/booster)
 - 📫 How to reach me: g.johnsonlee@gmail.com
 
+### My Stack
+
+<table>
+<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/Android-_-_?style=for-the-badge&logo=android&labelColor=white&color=white&logoColor=green"></td></tr>
+<tr><td style="border-color:transparent!important;background:transparent!important"><img align="top" src="https://img.shields.io/badge/Kotlin-_-_?style=for-the-badge&logo=kotlin&labelColor=white&color=white"></td></tr>
+<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/Java-_-_?style=for-the-badge&logo=java&labelColor=white&color=white&logoColor=red"></td></tr>
+<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/JavaScript-_-_?style=for-the-badge&logo=javascript&labelColor=white&color=white"></td></tr>
+<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/Node.js-_-_?style=for-the-badge&logo=node.js&labelColor=white&color=white"></td></tr>
+<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/TypeScript-_-_?style=for-the-badge&logo=typescript&labelColor=white&color=white"></td></tr>
+<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/Vue.js-_-_?style=for-the-badge&logo=vue.js&labelColor=white&color=white"></td></tr>
+<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/Webpack-_-_?style=for-the-badge&logo=webpack&labelColor=white&color=white"></td></tr>
+</table>
