@@ -1,4 +1,4 @@
-<a href="#"><img src="https://img.shields.io/github/followers/johnsonlee?color=green&logo=github&style=for-the-badge"></a> <a href="#"><img src="https://img.shields.io/github/stars/johnsonlee?affiliations=COLLABORATOR&color=green&logo=github&style=for-the-badge"></a> <a href="https://johnsonlee.io/donate/?WeChatQR=/img/WeChatQR.png&AliPayQR=/img/AliPayQR.png"><img src="https://img.shields.io/static/v1?label=By%20Me%20A%20Coffe&message=%F0%9F%92%96&color=green&style=for-the-badge&logo=buy-me-a-coffee"></a>
+<a href="javascript:void(0)"><img src="https://img.shields.io/github/followers/johnsonlee?color=green&logo=github&style=for-the-badge"></a> <a href="javascript:void(0)"><img src="https://img.shields.io/github/stars/johnsonlee?affiliations=COLLABORATOR&color=green&logo=github&style=for-the-badge"></a> <a href="https://johnsonlee.io/donate/?WeChatQR=/img/WeChatQR.png&AliPayQR=/img/AliPayQR.png"><img src="https://img.shields.io/static/v1?label=By%20Me%20A%20Coffe&message=%F0%9F%92%96&color=green&style=for-the-badge&logo=buy-me-a-coffee"></a>
 
 ### Hi there 👋 I'm Johnson
 
