@@ -11,14 +11,17 @@
 - 📫 How to reach me: g.johnsonlee@gmail.com
 
 ### My Stack
-
-<table>
-<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/Android-_-_?style=for-the-badge&logo=android&labelColor=white&color=white&logoColor=green"></td></tr>
-<tr><td style="border-color:transparent!important;background:transparent!important"><img align="top" src="https://img.shields.io/badge/Kotlin-_-_?style=for-the-badge&logo=kotlin&labelColor=white&color=white"></td></tr>
-<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/Java-_-_?style=for-the-badge&logo=java&labelColor=white&color=white&logoColor=red"></td></tr>
-<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/JavaScript-_-_?style=for-the-badge&logo=javascript&labelColor=white&color=white"></td></tr>
-<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/Node.js-_-_?style=for-the-badge&logo=node.js&labelColor=white&color=white"></td></tr>
-<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/TypeScript-_-_?style=for-the-badge&logo=typescript&labelColor=white&color=white"></td></tr>
-<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/Vue.js-_-_?style=for-the-badge&logo=vue.js&labelColor=white&color=white"></td></tr>
-<tr><td style="border-color:transparent!important;background:transparent!important"><img align="middle" src="https://img.shields.io/badge/Webpack-_-_?style=for-the-badge&logo=webpack&labelColor=white&color=white"></td></tr>
-</table>
+<dl>
+<dt><img align="middle" src="https://img.shields.io/badge/Android-_-_?style=for-the-badge&logo=android&labelColor=white&color=white&logoColor=green"></dt>
+<dt><img align="top" src="https://img.shields.io/badge/Kotlin-_-_?style=for-the-badge&logo=kotlin&labelColor=white&color=white"></dt>
+<dt><img align="middle" src="https://img.shields.io/badge/Java-_-_?style=for-the-badge&logo=java&labelColor=white&color=white&logoColor=007396"></dt>
+<dt><img align="middle" src="https://img.shields.io/badge/JavaScript-_-_?style=for-the-badge&logo=javascript&labelColor=white&color=white&logoColor=F7DF1E"></dt>
+<dt><img align="middle" src="https://img.shields.io/badge/Node.js-_-_?style=for-the-badge&logo=node.js&labelColor=white&color=white"></dt>
+<dt><img align="middle" src="https://img.shields.io/badge/TypeScript-_-_?style=for-the-badge&logo=typescript&labelColor=white&color=white"></dt>
+<dt><img align="middle" src="https://img.shields.io/badge/Vue.js-_-_?style=for-the-badge&logo=vue.js&labelColor=white&color=white&logoColor=4FC08D"></dt>
+<dt><img align="middle" src="https://img.shields.io/badge/Webpack-_-_?style=for-the-badge&logo=webpack&labelColor=white&color=white"></dt>
+<dt><img align="middle" src="https://img.shields.io/badge/IntelliJ IDEA-_-_?style=for-the-badge&logo=intellij-idea&labelColor=white&color=white&logoColor=black">
+<dt><img align="middle" src="https://img.shields.io/badge/Android Studio-_-_?style=for-the-badge&logo=android-studio&labelColor=white&color=white&logoColor=3DDC84">
+<dt><img align="middle" src="https://img.shields.io/badge/Visual Studio Code-_-_?style=for-the-badge&logo=visual-studio-code&labelColor=white&color=white&logoColor=007ACC">
+</dt>
+</dl>
