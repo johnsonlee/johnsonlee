@@ -4,7 +4,7 @@
 
 - 📝　My personal blog: https://johnsonlee.io
 - 🔭　I’m currently working on serveral open-source project
-  - [didi/booster](https://github.com/didi/booster) - optimizer for mobile applications
+  - [didi/booster](https://github.com/didi/booster) | [Booster Deep Dive](https://booster.johnsonlee.io/) - optimizer for mobile applications
   - [johnsonlee/sonatype-publish-plugin](https://github.com/johnsonlee/sonatype-publish-plugin) - Gradle plugin for publishing artifacts to Sonatype or Nexus
 - 🌱　I’m currently writing books about mobile app architecture design and mobile app monitoring system design
 - 👯　I’m looking to collaborate on [didi/booster](https://github.com/didi/booster)
