@@ -7,6 +7,7 @@
   - [didi/booster](https://github.com/didi/booster) | [Booster Deep Dive](https://booster.johnsonlee.io/) - optimizer for mobile applications
   - [johnsonlee/sonatype-publish-plugin](https://github.com/johnsonlee/sonatype-publish-plugin) - Gradle plugin for publishing artifacts to Sonatype or Nexus
   - [johnsonlee/codegen](https://github.com/johnsonlee/codegen) - A Lightweight Framework for Code Generating
+  - [johnsonlee/mutator](https://github.com/johnsonlee/mutator) - Mutator for Immutable Object
 - 🌱　I’m currently writing books about mobile app architecture design and mobile app monitoring system design
 - 👯　I’m looking to collaborate on [didi/booster](https://github.com/didi/booster)
 - 📫　How to reach me: g.johnsonlee@gmail.com
