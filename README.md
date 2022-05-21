@@ -3,6 +3,7 @@
 ### Hi there 👋  I am Johnson
 
 - 📝　My personal blog: https://johnsonlee.io
+- Ⓜ️　My Medium Profile: https://medium.com/@johnson.lee
 - 🔭　I’m currently working on serveral open-source project
   - [didi/booster](https://github.com/didi/booster) | [Booster Deep Dive](https://booster.johnsonlee.io/) - optimizer for mobile applications
   - [johnsonlee/sonatype-publish-plugin](https://github.com/johnsonlee/sonatype-publish-plugin) - Gradle plugin for publishing artifacts to Sonatype or Nexus
