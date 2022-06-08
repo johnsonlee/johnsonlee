@@ -9,6 +9,8 @@
   - [johnsonlee/sonatype-publish-plugin](https://github.com/johnsonlee/sonatype-publish-plugin) - Gradle plugin for publishing artifacts to Sonatype or Nexus
   - [johnsonlee/codegen](https://github.com/johnsonlee/codegen) - A Lightweight Framework for Code Generating
   - [johnsonlee/mutator](https://github.com/johnsonlee/mutator) - Mutator for Immutable Object
+  - [johnsonlee/once](https://github.com/johnsonlee/once) - A library to make sure code blocks are executed only once
+  - [johnsonlee/initializr](https://github.com/johnsonlee/initializr) - Initialization Framework for Android
 - 🌱　I’m currently writing books about mobile app architecture design and mobile app monitoring system design
 - 👯　I’m looking to collaborate on [didi/booster](https://github.com/didi/booster)
 - 📫　How to reach me: g.johnsonlee@gmail.com
