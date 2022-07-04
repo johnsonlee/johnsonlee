@@ -11,6 +11,7 @@
   - [johnsonlee/mutator](https://github.com/johnsonlee/mutator) - Mutator for Immutable Object
   - [johnsonlee/once](https://github.com/johnsonlee/once) - A library to make sure code blocks are executed only once
   - [johnsonlee/initializr](https://github.com/johnsonlee/initializr) - Initialization Framework for Android
+  - [johnsonlee/tracing](https://github.com/johnsonlee/tracing) - A Gradle plugin to generate trace files for Gradle projects
 - 🌱　I’m currently writing books about mobile app architecture design and mobile app monitoring system design
 - 👯　I’m looking to collaborate on [didi/booster](https://github.com/didi/booster)
 - 📫　How to reach me: g.johnsonlee@gmail.com
