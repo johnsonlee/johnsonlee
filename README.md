@@ -10,7 +10,7 @@
   - [johnsonlee/codegen](https://github.com/johnsonlee/codegen) - A Lightweight Framework for Code Generating
   - [johnsonlee/mutator](https://github.com/johnsonlee/mutator) - Mutator for Immutable Object
   - [johnsonlee/once](https://github.com/johnsonlee/once) - A library to make sure code blocks are executed only once
-  - [johnsonlee/initializr](https://github.com/johnsonlee/initializr) - Initialization Framework for Android
+  - [johnsonlee/initializr](https://github.com/johnsonlee/initializr) - An initialization Framework for Android
   - [johnsonlee/tracing](https://github.com/johnsonlee/tracing) - A Gradle plugin to generate trace files for Gradle projects
   - [johnsonlee/trace-parser](https://github.com/johnsonlee/trace-parser) - A parser collection for Java/Native stack trace parsing
   - [johnsonlee/retracer](https://github.com/johnsonlee/retracer) - A high performance, realtime retracing server for mobile app health monitoring
