@@ -12,7 +12,7 @@
   - [johnsonlee/once](https://github.com/johnsonlee/once) - A library to make sure code blocks are executed only once
   - [johnsonlee/initializr](https://github.com/johnsonlee/initializr) - Initialization Framework for Android
   - [johnsonlee/tracing](https://github.com/johnsonlee/tracing) - A Gradle plugin to generate trace files for Gradle projects
-  - [johnsonlee/trace-parser](https://github.com/johnsonlee/trace-parser) - A parser collection for Java/Native stack trace
+  - [johnsonlee/trace-parser](https://github.com/johnsonlee/trace-parser) - A parser collection for Java/Native stack trace parsing
   - [johnsonlee/retracer](https://github.com/johnsonlee/retracer) - A high performance, realtime retracing server for mobile app health monitoring
 - 🌱　I’m currently writing books about mobile app architecture design and mobile app monitoring system design
 - 👯　I’m looking to collaborate on [didi/booster](https://github.com/didi/booster)
