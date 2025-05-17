@@ -16,6 +16,7 @@
   - [johnsonlee/retracer](https://github.com/johnsonlee/retracer) - A high performance, realtime retracing server for mobile app health monitoring
   - [johnsonlee/playground](https://github.com/johnsonlee/playground) - Play with mobile UI on the fly
   - [johnsonlee/sandbox](https://github.com/johnsonlee/sandbox) - A library that allows rendering Android UI directly on the JVM, without any emulator or device
+  - [johnsonlee/exec](https://github.com/johnsonlee/exec) - A flexible and extensible command-line toolkit
 - 🌱　I’m currently writing books about mobile app architecture design and mobile app monitoring system design
 - 👯　I’m looking to collaborate on [didi/booster](https://github.com/didi/booster)
 - 📫　How to reach me: g.johnsonlee@gmail.com
