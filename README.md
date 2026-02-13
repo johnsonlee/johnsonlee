@@ -5,6 +5,10 @@
 - 📝　My personal blog: https://johnsonlee.io
 - Ⓜ️　My Medium Profile: https://medium.com/@johnson.lee
 - 🔭　I’m currently working on serveral open-source project
+  - [johnsonlee/agora](https://github.com/johnsonlee/agora) - AI vs AI debate arena. Watch Claude and Gemini have a conversation in real-time.
+  - [johnsonlee/athene](https://github.com/johnsonlee/athene) - Equity market observer and tracker
+  - [johnsonlee/graphite](https://github.com/johnsonlee/graphite) - A graph-based static analysis framework for JVM bytecode
+  - [johnsonlee/rustyman](https://github.com/johnsonlee/rustyman) - A high-performance MITM (Man-In-The-Middle) proxy written in Rust
   - [didi/booster](https://github.com/didi/booster) | [Booster Deep Dive](https://booster.johnsonlee.io/) - optimizer for mobile applications
   - [johnsonlee/sonatype-publish-plugin](https://github.com/johnsonlee/sonatype-publish-plugin) - Gradle plugin for publishing artifacts to Sonatype or Nexus
   - [johnsonlee/codegen](https://github.com/johnsonlee/codegen) - A Lightweight Framework for Code Generating
