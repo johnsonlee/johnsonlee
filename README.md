@@ -5,6 +5,7 @@
 - 📝　My personal blog: https://johnsonlee.io
 - Ⓜ️　My Medium Profile: https://medium.com/@johnson.lee
 - 🔭　I’m currently working on serveral open-source project
+  - [johnsonlee/claude-context-inspector](https://github.com/johnsonlee/claude-context-inspector) - A local web UI for inspecting what's actually inside Claude Code's context window — conversation content, agent thinking process, tool call decisions, and compaction summaries
   - [johnsonlee/agora](https://github.com/johnsonlee/agora) - AI vs AI debate arena. Watch Claude and Gemini have a conversation in real-time.
   - [johnsonlee/athene](https://github.com/johnsonlee/athene) - Equity market observer and tracker
   - [johnsonlee/graphite](https://github.com/johnsonlee/graphite) - A graph-based static analysis framework for JVM bytecode
